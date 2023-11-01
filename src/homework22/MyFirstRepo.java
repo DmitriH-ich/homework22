@@ -2,9 +2,6 @@ package homework22;
 
 public class MyFirstRepo {
 
-  public static void main(String[] args) {
-    System.out.println("Hello World");
-  }
   public static double power(double base, int pow){
     if(pow == 0) {
       return 1;
